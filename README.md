@@ -10,8 +10,7 @@ It's a TicTacToe game which can be done following <a href="https://reactjs.org/t
 
 If it didn't launch after running the last command, go to http://localhost:3000/ to visualize the game
 
-# SPANISH
-
+(SPANISH DESCRIPTION BELOW)
 # TaTeTiEnReactConHooks
 Es un juego de TaTeTi que se puede hacer siguiendo <a href="https://reactjs.org/tutorial/tutorial.html?">el Tutorial oficial de React</a> pero en lugar de construirlo con clases funcionales como dice el tutorial, lo he convertido en hooks funcionales
 
